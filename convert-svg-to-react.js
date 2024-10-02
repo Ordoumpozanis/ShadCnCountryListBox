@@ -135,13 +135,28 @@ const createCountryList = () => {
     // Step 9: Read and parse the JSON file
     const jsonData = JSON.parse(fs.readFileSync(filePath, "utf-8"));
 
+    // Helper function to capitalize the first letter of a string
+    const capitalize = (str) => str.charAt(0).toUpperCase() + str.slice(1);
+
+    // Function to extract and format the component name from the country code
+    const getComponentNameFromCode = (code) => {
+      // Split the code by '-' and take the second part (e.g., 'AD' in 'ca-AD')
+      const parts = code.split("-");
+
+      // If there's a second part, use it to generate the component name
+      const countryCode = parts.length > 1 ? parts[1] : parts[0];
+
+      // Capitalize the first letter and return it as the component name with 'Flag' suffix
+      return capitalize(countryCode.toLowerCase()) + "Flag";
+    };
+
     // Step 10: Create the country array with the corresponding flag component
     const countriesArray = jsonData
       .map(
         (entry) =>
           `{\n  name: "${entry.name}",\n  code: "${
             entry.code
-          }",\n  flag: <Flags.${capitalize(entry.code)}Flag />\n}`
+          }",\n  flag: <Flags.${getComponentNameFromCode(entry.code)} />\n}`
       )
       .join(",\n");
 

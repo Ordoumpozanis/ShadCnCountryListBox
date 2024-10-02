@@ -11,1107 +11,1107 @@ export const allCountries: CountryEntry[] = [
 {
   name: "Andorra",
   code: "ca-AD",
-  flag: <Flags.Ca-ADFlag />
+  flag: <Flags.AdFlag />
 },
 {
   name: "United Arab Emirates",
   code: "ar-AE",
-  flag: <Flags.Ar-AEFlag />
+  flag: <Flags.AeFlag />
 },
 {
   name: "Afghanistan",
   code: "fa-AF",
-  flag: <Flags.Fa-AFFlag />
+  flag: <Flags.AfFlag />
 },
 {
   name: "Antigua and Barbuda",
   code: "en-AG",
-  flag: <Flags.En-AGFlag />
+  flag: <Flags.AgFlag />
 },
 {
   name: "Anguilla",
   code: "en-AI",
-  flag: <Flags.En-AIFlag />
+  flag: <Flags.AiFlag />
 },
 {
   name: "Albania",
   code: "sq-AL",
-  flag: <Flags.Sq-ALFlag />
+  flag: <Flags.AlFlag />
 },
 {
   name: "Armenia",
   code: "hy-AM",
-  flag: <Flags.Hy-AMFlag />
+  flag: <Flags.AmFlag />
 },
 {
   name: "Angola",
   code: "pt-AO",
-  flag: <Flags.Pt-AOFlag />
+  flag: <Flags.AoFlag />
 },
 {
   name: "Argentina",
   code: "es-AR",
-  flag: <Flags.Es-ARFlag />
+  flag: <Flags.ArFlag />
 },
 {
   name: "American Samoa",
   code: "en-AS",
-  flag: <Flags.En-ASFlag />
+  flag: <Flags.AsFlag />
 },
 {
   name: "Austria",
   code: "de-AT",
-  flag: <Flags.De-ATFlag />
+  flag: <Flags.AtFlag />
 },
 {
   name: "Australia",
   code: "en-AU",
-  flag: <Flags.En-AUFlag />
+  flag: <Flags.AuFlag />
 },
 {
   name: "Aruba",
   code: "nl-AW",
-  flag: <Flags.Nl-AWFlag />
+  flag: <Flags.AwFlag />
 },
 {
   name: "Azerbaijan",
   code: "az-AZ",
-  flag: <Flags.Az-AZFlag />
+  flag: <Flags.AzFlag />
 },
 {
   name: "Bosnia and Herzegovina",
   code: "bs-BA",
-  flag: <Flags.Bs-BAFlag />
+  flag: <Flags.BaFlag />
 },
 {
   name: "Barbados",
   code: "en-BB",
-  flag: <Flags.En-BBFlag />
+  flag: <Flags.BbFlag />
 },
 {
   name: "Bangladesh",
   code: "bn-BD",
-  flag: <Flags.Bn-BDFlag />
+  flag: <Flags.BdFlag />
 },
 {
   name: "Belgium",
   code: "nl-BE",
-  flag: <Flags.Nl-BEFlag />
+  flag: <Flags.BeFlag />
 },
 {
   name: "Burkina Faso",
   code: "fr-BF",
-  flag: <Flags.Fr-BFFlag />
+  flag: <Flags.BfFlag />
 },
 {
   name: "Bulgaria",
   code: "bg-BG",
-  flag: <Flags.Bg-BGFlag />
+  flag: <Flags.BgFlag />
 },
 {
   name: "Bahrain",
   code: "ar-BH",
-  flag: <Flags.Ar-BHFlag />
+  flag: <Flags.BhFlag />
 },
 {
   name: "Burundi",
   code: "fr-BI",
-  flag: <Flags.Fr-BIFlag />
+  flag: <Flags.BiFlag />
 },
 {
   name: "Benin",
   code: "fr-BJ",
-  flag: <Flags.Fr-BJFlag />
+  flag: <Flags.BjFlag />
 },
 {
   name: "Bermuda",
   code: "en-BM",
-  flag: <Flags.En-BMFlag />
+  flag: <Flags.BmFlag />
 },
 {
   name: "Bolivia",
   code: "es-BO",
-  flag: <Flags.Es-BOFlag />
+  flag: <Flags.BoFlag />
 },
 {
   name: "Brazil",
   code: "pt-BR",
-  flag: <Flags.Pt-BRFlag />
+  flag: <Flags.BrFlag />
 },
 {
   name: "Bahamas",
   code: "en-BS",
-  flag: <Flags.En-BSFlag />
+  flag: <Flags.BsFlag />
 },
 {
   name: "Bhutan",
   code: "dz-BT",
-  flag: <Flags.Dz-BTFlag />
+  flag: <Flags.BtFlag />
 },
 {
   name: "Botswana",
   code: "en-BW",
-  flag: <Flags.En-BWFlag />
+  flag: <Flags.BwFlag />
 },
 {
   name: "Belarus",
   code: "be-BY",
-  flag: <Flags.Be-BYFlag />
+  flag: <Flags.ByFlag />
 },
 {
   name: "Belize",
   code: "es-BZ",
-  flag: <Flags.Es-BZFlag />
+  flag: <Flags.BzFlag />
 },
 {
   name: "Canada",
   code: "en-CA",
-  flag: <Flags.En-CAFlag />
+  flag: <Flags.CaFlag />
 },
 {
   name: "Democratic Republic of the Congo",
   code: "fr-CD",
-  flag: <Flags.Fr-CDFlag />
+  flag: <Flags.CdFlag />
 },
 {
   name: "Central African Republic",
   code: "fr-CF",
-  flag: <Flags.Fr-CFFlag />
+  flag: <Flags.CfFlag />
 },
 {
   name: "Republic of the Congo",
   code: "fr-CG",
-  flag: <Flags.Fr-CGFlag />
+  flag: <Flags.CgFlag />
 },
 {
   name: "Switzerland",
   code: "de-CH",
-  flag: <Flags.De-CHFlag />
+  flag: <Flags.ChFlag />
 },
 {
   name: "Ivory Coast",
   code: "fr-CI",
-  flag: <Flags.Fr-CIFlag />
+  flag: <Flags.CiFlag />
 },
 {
   name: "Cook Islands",
   code: "en-CK",
-  flag: <Flags.En-CKFlag />
+  flag: <Flags.CkFlag />
 },
 {
   name: "Chile",
   code: "es-CL",
-  flag: <Flags.Es-CLFlag />
+  flag: <Flags.ClFlag />
 },
 {
   name: "Cameroon",
   code: "fr-CM",
-  flag: <Flags.Fr-CMFlag />
+  flag: <Flags.CmFlag />
 },
 {
   name: "China",
   code: "zh-CN",
-  flag: <Flags.Zh-CNFlag />
+  flag: <Flags.CnFlag />
 },
 {
   name: "Colombia",
   code: "es-CO",
-  flag: <Flags.Es-COFlag />
+  flag: <Flags.CoFlag />
 },
 {
   name: "Costa Rica",
   code: "es-CR",
-  flag: <Flags.Es-CRFlag />
+  flag: <Flags.CrFlag />
 },
 {
   name: "Cuba",
   code: "es-CU",
-  flag: <Flags.Es-CUFlag />
+  flag: <Flags.CuFlag />
 },
 {
   name: "Cabo Verde",
   code: "pt-CV",
-  flag: <Flags.Pt-CVFlag />
+  flag: <Flags.CvFlag />
 },
 {
   name: "Curaçao",
   code: "nl-CW",
-  flag: <Flags.Nl-CWFlag />
+  flag: <Flags.CwFlag />
 },
 {
   name: "Cyprus",
   code: "el-CY",
-  flag: <Flags.El-CYFlag />
+  flag: <Flags.CyFlag />
 },
 {
   name: "Czech Republic",
   code: "cs-CZ",
-  flag: <Flags.Cs-CZFlag />
+  flag: <Flags.CzFlag />
 },
 {
   name: "Germany",
   code: "de-DE",
-  flag: <Flags.De-DEFlag />
+  flag: <Flags.DeFlag />
 },
 {
   name: "Djibouti",
   code: "fr-DJ",
-  flag: <Flags.Fr-DJFlag />
+  flag: <Flags.DjFlag />
 },
 {
   name: "Denmark",
   code: "da-DK",
-  flag: <Flags.Da-DKFlag />
+  flag: <Flags.DkFlag />
 },
 {
   name: "Dominica",
   code: "en-DM",
-  flag: <Flags.En-DMFlag />
+  flag: <Flags.DmFlag />
 },
 {
   name: "Dominican Republic",
   code: "es-DO",
-  flag: <Flags.Es-DOFlag />
+  flag: <Flags.DoFlag />
 },
 {
   name: "Algeria",
   code: "ar-DZ",
-  flag: <Flags.Ar-DZFlag />
+  flag: <Flags.DzFlag />
 },
 {
   name: "Ecuador",
   code: "es-EC",
-  flag: <Flags.Es-ECFlag />
+  flag: <Flags.EcFlag />
 },
 {
   name: "Estonia",
   code: "et-EE",
-  flag: <Flags.Et-EEFlag />
+  flag: <Flags.EeFlag />
 },
 {
   name: "Egypt",
   code: "ar-EG",
-  flag: <Flags.Ar-EGFlag />
+  flag: <Flags.EgFlag />
 },
 {
   name: "Eritrea",
   code: "ti-ER",
-  flag: <Flags.Ti-ERFlag />
+  flag: <Flags.ErFlag />
 },
 {
   name: "Spain",
   code: "es-ES",
-  flag: <Flags.Es-ESFlag />
+  flag: <Flags.EsFlag />
 },
 {
   name: "Ethiopia",
   code: "am-ET",
-  flag: <Flags.Am-ETFlag />
+  flag: <Flags.EtFlag />
 },
 {
   name: "Finland",
   code: "fi-FI",
-  flag: <Flags.Fi-FIFlag />
+  flag: <Flags.FiFlag />
 },
 {
   name: "Fiji",
   code: "en-FJ",
-  flag: <Flags.En-FJFlag />
+  flag: <Flags.FjFlag />
 },
 {
   name: "Falkland Islands",
   code: "es-FK",
-  flag: <Flags.Es-FKFlag />
+  flag: <Flags.FkFlag />
 },
 {
   name: "Micronesia",
   code: "en-FM",
-  flag: <Flags.En-FMFlag />
+  flag: <Flags.FmFlag />
 },
 {
   name: "Faroe Islands",
   code: "fo-FO",
-  flag: <Flags.Fo-FOFlag />
+  flag: <Flags.FoFlag />
 },
 {
   name: "France",
   code: "fr-FR",
-  flag: <Flags.Fr-FRFlag />
+  flag: <Flags.FrFlag />
 },
 {
   name: "Gabon",
   code: "fr-GA",
-  flag: <Flags.Fr-GAFlag />
+  flag: <Flags.GaFlag />
 },
 {
   name: "United Kingdom",
   code: "en-GB",
-  flag: <Flags.En-GBFlag />
+  flag: <Flags.GbFlag />
 },
 {
   name: "Grenada",
   code: "en-GD",
-  flag: <Flags.En-GDFlag />
+  flag: <Flags.GdFlag />
 },
 {
   name: "Georgia",
   code: "ka-GE",
-  flag: <Flags.Ka-GEFlag />
+  flag: <Flags.GeFlag />
 },
 {
   name: "Guernsey",
   code: "en-GG",
-  flag: <Flags.En-GGFlag />
+  flag: <Flags.GgFlag />
 },
 {
   name: "Ghana",
   code: "en-GH",
-  flag: <Flags.En-GHFlag />
+  flag: <Flags.GhFlag />
 },
 {
   name: "Gibraltar",
   code: "en-GI",
-  flag: <Flags.En-GIFlag />
+  flag: <Flags.GiFlag />
 },
 {
   name: "Greenland",
   code: "kl-GL",
-  flag: <Flags.Kl-GLFlag />
+  flag: <Flags.GlFlag />
 },
 {
   name: "Gambia",
   code: "en-GM",
-  flag: <Flags.En-GMFlag />
+  flag: <Flags.GmFlag />
 },
 {
   name: "Guinea",
   code: "fr-GN",
-  flag: <Flags.Fr-GNFlag />
+  flag: <Flags.GnFlag />
 },
 {
   name: "Equatorial Guinea",
   code: "es-GQ",
-  flag: <Flags.Es-GQFlag />
+  flag: <Flags.GqFlag />
 },
 {
   name: "Greece",
   code: "el-GR",
-  flag: <Flags.El-GRFlag />
+  flag: <Flags.GrFlag />
 },
 {
   name: "Guatemala",
   code: "es-GT",
-  flag: <Flags.Es-GTFlag />
+  flag: <Flags.GtFlag />
 },
 {
   name: "Guam",
   code: "en-GU",
-  flag: <Flags.En-GUFlag />
+  flag: <Flags.GuFlag />
 },
 {
   name: "Guinea-Bissau",
   code: "pt-GW",
-  flag: <Flags.Pt-GWFlag />
+  flag: <Flags.GwFlag />
 },
 {
   name: "Hong Kong",
   code: "zh-HK",
-  flag: <Flags.Zh-HKFlag />
+  flag: <Flags.HkFlag />
 },
 {
   name: "Honduras",
   code: "es-HN",
-  flag: <Flags.Es-HNFlag />
+  flag: <Flags.HnFlag />
 },
 {
   name: "Croatia",
   code: "hr-HR",
-  flag: <Flags.Hr-HRFlag />
+  flag: <Flags.HrFlag />
 },
 {
   name: "Haiti",
   code: "fr-HT",
-  flag: <Flags.Fr-HTFlag />
+  flag: <Flags.HtFlag />
 },
 {
   name: "Hungary",
   code: "hu-HU",
-  flag: <Flags.Hu-HUFlag />
+  flag: <Flags.HuFlag />
 },
 {
   name: "Indonesia",
   code: "id-ID",
-  flag: <Flags.Id-IDFlag />
+  flag: <Flags.IdFlag />
 },
 {
   name: "Ireland",
   code: "en-IE",
-  flag: <Flags.En-IEFlag />
+  flag: <Flags.IeFlag />
 },
 {
   name: "Israel",
   code: "he-IL",
-  flag: <Flags.He-ILFlag />
+  flag: <Flags.IlFlag />
 },
 {
   name: "Isle of Man",
   code: "en-IM",
-  flag: <Flags.En-IMFlag />
+  flag: <Flags.ImFlag />
 },
 {
   name: "India",
   code: "hi-IN",
-  flag: <Flags.Hi-INFlag />
+  flag: <Flags.InFlag />
 },
 {
   name: "British Indian Ocean Territory",
   code: "en-IO",
-  flag: <Flags.En-IOFlag />
+  flag: <Flags.IoFlag />
 },
 {
   name: "Iraq",
   code: "ar-IQ",
-  flag: <Flags.Ar-IQFlag />
+  flag: <Flags.IqFlag />
 },
 {
   name: "Iran",
   code: "fa-IR",
-  flag: <Flags.Fa-IRFlag />
+  flag: <Flags.IrFlag />
 },
 {
   name: "Iceland",
   code: "is-IS",
-  flag: <Flags.Is-ISFlag />
+  flag: <Flags.IsFlag />
 },
 {
   name: "Italy",
   code: "it-IT",
-  flag: <Flags.It-ITFlag />
+  flag: <Flags.ItFlag />
 },
 {
   name: "Jersey",
   code: "en-JE",
-  flag: <Flags.En-JEFlag />
+  flag: <Flags.JeFlag />
 },
 {
   name: "Jamaica",
   code: "en-JM",
-  flag: <Flags.En-JMFlag />
+  flag: <Flags.JmFlag />
 },
 {
   name: "Jordan",
   code: "ar-JO",
-  flag: <Flags.Ar-JOFlag />
+  flag: <Flags.JoFlag />
 },
 {
   name: "Japan",
   code: "ja-JP",
-  flag: <Flags.Ja-JPFlag />
+  flag: <Flags.JpFlag />
 },
 {
   name: "Kenya",
   code: "sw-KE",
-  flag: <Flags.Sw-KEFlag />
+  flag: <Flags.KeFlag />
 },
 {
   name: "Kyrgyzstan",
   code: "ky-KG",
-  flag: <Flags.Ky-KGFlag />
+  flag: <Flags.KgFlag />
 },
 {
   name: "Cambodia",
   code: "km-KH",
-  flag: <Flags.Km-KHFlag />
+  flag: <Flags.KhFlag />
 },
 {
   name: "Kiribati",
   code: "en-KI",
-  flag: <Flags.En-KIFlag />
+  flag: <Flags.KiFlag />
 },
 {
   name: "Comoros",
   code: "fr-KM",
-  flag: <Flags.Fr-KMFlag />
+  flag: <Flags.KmFlag />
 },
 {
   name: "Saint Kitts and Nevis",
   code: "en-KN",
-  flag: <Flags.En-KNFlag />
+  flag: <Flags.KnFlag />
 },
 {
   name: "North Korea",
   code: "ko-KP",
-  flag: <Flags.Ko-KPFlag />
+  flag: <Flags.KpFlag />
 },
 {
   name: "South Korea",
   code: "ko-KR",
-  flag: <Flags.Ko-KRFlag />
+  flag: <Flags.KrFlag />
 },
 {
   name: "Kuwait",
   code: "ar-KW",
-  flag: <Flags.Ar-KWFlag />
+  flag: <Flags.KwFlag />
 },
 {
   name: "Cayman Islands",
   code: "en-KY",
-  flag: <Flags.En-KYFlag />
+  flag: <Flags.KyFlag />
 },
 {
   name: "Kazakhstan",
   code: "kk-KZ",
-  flag: <Flags.Kk-KZFlag />
+  flag: <Flags.KzFlag />
 },
 {
   name: "Laos",
   code: "lo-LA",
-  flag: <Flags.Lo-LAFlag />
+  flag: <Flags.LaFlag />
 },
 {
   name: "Lebanon",
   code: "ar-LB",
-  flag: <Flags.Ar-LBFlag />
+  flag: <Flags.LbFlag />
 },
 {
   name: "Saint Lucia",
   code: "en-LC",
-  flag: <Flags.En-LCFlag />
+  flag: <Flags.LcFlag />
 },
 {
   name: "Liechtenstein",
   code: "de-LI",
-  flag: <Flags.De-LIFlag />
+  flag: <Flags.LiFlag />
 },
 {
   name: "Sri Lanka",
   code: "si-LK",
-  flag: <Flags.Si-LKFlag />
+  flag: <Flags.LkFlag />
 },
 {
   name: "Liberia",
   code: "en-LR",
-  flag: <Flags.En-LRFlag />
+  flag: <Flags.LrFlag />
 },
 {
   name: "Lesotho",
   code: "en-LS",
-  flag: <Flags.En-LSFlag />
+  flag: <Flags.LsFlag />
 },
 {
   name: "Lithuania",
   code: "lt-LT",
-  flag: <Flags.Lt-LTFlag />
+  flag: <Flags.LtFlag />
 },
 {
   name: "Luxembourg",
   code: "lb-LU",
-  flag: <Flags.Lb-LUFlag />
+  flag: <Flags.LuFlag />
 },
 {
   name: "Latvia",
   code: "lv-LV",
-  flag: <Flags.Lv-LVFlag />
+  flag: <Flags.LvFlag />
 },
 {
   name: "Libya",
   code: "ar-LY",
-  flag: <Flags.Ar-LYFlag />
+  flag: <Flags.LyFlag />
 },
 {
   name: "Morocco",
   code: "ar-MA",
-  flag: <Flags.Ar-MAFlag />
+  flag: <Flags.MaFlag />
 },
 {
   name: "Monaco",
   code: "fr-MC",
-  flag: <Flags.Fr-MCFlag />
+  flag: <Flags.McFlag />
 },
 {
   name: "Moldova",
   code: "ro-MD",
-  flag: <Flags.Ro-MDFlag />
+  flag: <Flags.MdFlag />
 },
 {
   name: "Montenegro",
   code: "sr-ME",
-  flag: <Flags.Sr-MEFlag />
+  flag: <Flags.MeFlag />
 },
 {
   name: "Madagascar",
   code: "mg-MG",
-  flag: <Flags.Mg-MGFlag />
+  flag: <Flags.MgFlag />
 },
 {
   name: "Marshall Islands",
   code: "en-MH",
-  flag: <Flags.En-MHFlag />
+  flag: <Flags.MhFlag />
 },
 {
   name: "North Macedonia",
   code: "mk-MK",
-  flag: <Flags.Mk-MKFlag />
+  flag: <Flags.MkFlag />
 },
 {
   name: "Mali",
   code: "fr-ML",
-  flag: <Flags.Fr-MLFlag />
+  flag: <Flags.MlFlag />
 },
 {
   name: "Myanmar",
   code: "my-MM",
-  flag: <Flags.My-MMFlag />
+  flag: <Flags.MmFlag />
 },
 {
   name: "Mongolia",
   code: "mn-MN",
-  flag: <Flags.Mn-MNFlag />
+  flag: <Flags.MnFlag />
 },
 {
   name: "Macau",
   code: "zh-MO",
-  flag: <Flags.Zh-MOFlag />
+  flag: <Flags.MoFlag />
 },
 {
   name: "Northern Mariana Islands",
   code: "en-MP",
-  flag: <Flags.En-MPFlag />
+  flag: <Flags.MpFlag />
 },
 {
   name: "Martinique",
   code: "fr-MQ",
-  flag: <Flags.Fr-MQFlag />
+  flag: <Flags.MqFlag />
 },
 {
   name: "Mauritania",
   code: "ar-MR",
-  flag: <Flags.Ar-MRFlag />
+  flag: <Flags.MrFlag />
 },
 {
   name: "Montserrat",
   code: "en-MS",
-  flag: <Flags.En-MSFlag />
+  flag: <Flags.MsFlag />
 },
 {
   name: "Malta",
   code: "mt-MT",
-  flag: <Flags.Mt-MTFlag />
+  flag: <Flags.MtFlag />
 },
 {
   name: "Mauritius",
   code: "en-MU",
-  flag: <Flags.En-MUFlag />
+  flag: <Flags.MuFlag />
 },
 {
   name: "Maldives",
   code: "dv-MV",
-  flag: <Flags.Dv-MVFlag />
+  flag: <Flags.MvFlag />
 },
 {
   name: "Malawi",
   code: "en-MW",
-  flag: <Flags.En-MWFlag />
+  flag: <Flags.MwFlag />
 },
 {
   name: "Mexico",
   code: "es-MX",
-  flag: <Flags.Es-MXFlag />
+  flag: <Flags.MxFlag />
 },
 {
   name: "Malaysia",
   code: "ms-MY",
-  flag: <Flags.Ms-MYFlag />
+  flag: <Flags.MyFlag />
 },
 {
   name: "Mozambique",
   code: "pt-MZ",
-  flag: <Flags.Pt-MZFlag />
+  flag: <Flags.MzFlag />
 },
 {
   name: "Namibia",
   code: "en-NA",
-  flag: <Flags.En-NAFlag />
+  flag: <Flags.NaFlag />
 },
 {
   name: "Niger",
   code: "fr-NE",
-  flag: <Flags.Fr-NEFlag />
+  flag: <Flags.NeFlag />
 },
 {
   name: "Norfolk Island",
   code: "en-NF",
-  flag: <Flags.En-NFFlag />
+  flag: <Flags.NfFlag />
 },
 {
   name: "Nigeria",
   code: "en-NG",
-  flag: <Flags.En-NGFlag />
+  flag: <Flags.NgFlag />
 },
 {
   name: "Nicaragua",
   code: "es-NI",
-  flag: <Flags.Es-NIFlag />
+  flag: <Flags.NiFlag />
 },
 {
   name: "Netherlands",
   code: "nl-NL",
-  flag: <Flags.Nl-NLFlag />
+  flag: <Flags.NlFlag />
 },
 {
   name: "Norway",
   code: "nb-NO",
-  flag: <Flags.Nb-NOFlag />
+  flag: <Flags.NoFlag />
 },
 {
   name: "Nepal",
   code: "ne-NP",
-  flag: <Flags.Ne-NPFlag />
+  flag: <Flags.NpFlag />
 },
 {
   name: "Nauru",
   code: "en-NR",
-  flag: <Flags.En-NRFlag />
+  flag: <Flags.NrFlag />
 },
 {
   name: "Niue",
   code: "en-NU",
-  flag: <Flags.En-NUFlag />
+  flag: <Flags.NuFlag />
 },
 {
   name: "New Zealand",
   code: "en-NZ",
-  flag: <Flags.En-NZFlag />
+  flag: <Flags.NzFlag />
 },
 {
   name: "Oman",
   code: "ar-OM",
-  flag: <Flags.Ar-OMFlag />
+  flag: <Flags.OmFlag />
 },
 {
   name: "Panama",
   code: "es-PA",
-  flag: <Flags.Es-PAFlag />
+  flag: <Flags.PaFlag />
 },
 {
   name: "Peru",
   code: "es-PE",
-  flag: <Flags.Es-PEFlag />
+  flag: <Flags.PeFlag />
 },
 {
   name: "French Polynesia",
   code: "fr-PF",
-  flag: <Flags.Fr-PFFlag />
+  flag: <Flags.PfFlag />
 },
 {
   name: "Papua New Guinea",
   code: "en-PG",
-  flag: <Flags.En-PGFlag />
+  flag: <Flags.PgFlag />
 },
 {
   name: "Philippines",
   code: "en-PH",
-  flag: <Flags.En-PHFlag />
+  flag: <Flags.PhFlag />
 },
 {
   name: "Pakistan",
   code: "ur-PK",
-  flag: <Flags.Ur-PKFlag />
+  flag: <Flags.PkFlag />
 },
 {
   name: "Poland",
   code: "pl-PL",
-  flag: <Flags.Pl-PLFlag />
+  flag: <Flags.PlFlag />
 },
 {
   name: "Pitcairn Islands",
   code: "en-PN",
-  flag: <Flags.En-PNFlag />
+  flag: <Flags.PnFlag />
 },
 {
   name: "Puerto Rico",
   code: "es-PR",
-  flag: <Flags.Es-PRFlag />
+  flag: <Flags.PrFlag />
 },
 {
   name: "Palestine",
   code: "ar-PS",
-  flag: <Flags.Ar-PSFlag />
+  flag: <Flags.PsFlag />
 },
 {
   name: "Portugal",
   code: "pt-PT",
-  flag: <Flags.Pt-PTFlag />
+  flag: <Flags.PtFlag />
 },
 {
   name: "Palau",
   code: "en-PW",
-  flag: <Flags.En-PWFlag />
+  flag: <Flags.PwFlag />
 },
 {
   name: "Paraguay",
   code: "es-PY",
-  flag: <Flags.Es-PYFlag />
+  flag: <Flags.PyFlag />
 },
 {
   name: "Qatar",
   code: "ar-QA",
-  flag: <Flags.Ar-QAFlag />
+  flag: <Flags.QaFlag />
 },
 {
   name: "Romania",
   code: "ro-RO",
-  flag: <Flags.Ro-ROFlag />
+  flag: <Flags.RoFlag />
 },
 {
   name: "Serbia",
   code: "sr-RS",
-  flag: <Flags.Sr-RSFlag />
+  flag: <Flags.RsFlag />
 },
 {
   name: "Russia",
   code: "ru-RU",
-  flag: <Flags.Ru-RUFlag />
+  flag: <Flags.RuFlag />
 },
 {
   name: "Rwanda",
   code: "rw-RW",
-  flag: <Flags.Rw-RWFlag />
+  flag: <Flags.RwFlag />
 },
 {
   name: "Saudi Arabia",
   code: "ar-SA",
-  flag: <Flags.Ar-SAFlag />
+  flag: <Flags.SaFlag />
 },
 {
   name: "Solomon Islands",
   code: "en-SB",
-  flag: <Flags.En-SBFlag />
+  flag: <Flags.SbFlag />
 },
 {
   name: "Seychelles",
   code: "fr-SC",
-  flag: <Flags.Fr-SCFlag />
+  flag: <Flags.ScFlag />
 },
 {
   name: "Sudan",
   code: "ar-SD",
-  flag: <Flags.Ar-SDFlag />
+  flag: <Flags.SdFlag />
 },
 {
   name: "Sweden",
   code: "sv-SE",
-  flag: <Flags.Sv-SEFlag />
+  flag: <Flags.SeFlag />
 },
 {
   name: "Singapore",
   code: "en-SG",
-  flag: <Flags.En-SGFlag />
+  flag: <Flags.SgFlag />
 },
 {
   name: "Slovenia",
   code: "sl-SI",
-  flag: <Flags.Sl-SIFlag />
+  flag: <Flags.SiFlag />
 },
 {
   name: "Slovakia",
   code: "sk-SK",
-  flag: <Flags.Sk-SKFlag />
+  flag: <Flags.SkFlag />
 },
 {
   name: "Sierra Leone",
   code: "en-SL",
-  flag: <Flags.En-SLFlag />
+  flag: <Flags.SlFlag />
 },
 {
   name: "San Marino",
   code: "it-SM",
-  flag: <Flags.It-SMFlag />
+  flag: <Flags.SmFlag />
 },
 {
   name: "Senegal",
   code: "fr-SN",
-  flag: <Flags.Fr-SNFlag />
+  flag: <Flags.SnFlag />
 },
 {
   name: "Somalia",
   code: "so-SO",
-  flag: <Flags.So-SOFlag />
+  flag: <Flags.SoFlag />
 },
 {
   name: "Suriname",
   code: "nl-SR",
-  flag: <Flags.Nl-SRFlag />
+  flag: <Flags.SrFlag />
 },
 {
   name: "South Sudan",
   code: "en-SS",
-  flag: <Flags.En-SSFlag />
+  flag: <Flags.SsFlag />
 },
 {
   name: "Sao Tome and Principe",
   code: "pt-ST",
-  flag: <Flags.Pt-STFlag />
+  flag: <Flags.StFlag />
 },
 {
   name: "El Salvador",
   code: "es-SV",
-  flag: <Flags.Es-SVFlag />
+  flag: <Flags.SvFlag />
 },
 {
   name: "Sint Maarten",
   code: "en-SX",
-  flag: <Flags.En-SXFlag />
+  flag: <Flags.SxFlag />
 },
 {
   name: "Syria",
   code: "ar-SY",
-  flag: <Flags.Ar-SYFlag />
+  flag: <Flags.SyFlag />
 },
 {
   name: "Eswatini",
   code: "en-SZ",
-  flag: <Flags.En-SZFlag />
+  flag: <Flags.SzFlag />
 },
 {
   name: "Turks and Caicos Islands",
   code: "en-TC",
-  flag: <Flags.En-TCFlag />
+  flag: <Flags.TcFlag />
 },
 {
   name: "Chad",
   code: "fr-TD",
-  flag: <Flags.Fr-TDFlag />
+  flag: <Flags.TdFlag />
 },
 {
   name: "Togo",
   code: "fr-TG",
-  flag: <Flags.Fr-TGFlag />
+  flag: <Flags.TgFlag />
 },
 {
   name: "Thailand",
   code: "th-TH",
-  flag: <Flags.Th-THFlag />
+  flag: <Flags.ThFlag />
 },
 {
   name: "Tajikistan",
   code: "tg-TJ",
-  flag: <Flags.Tg-TJFlag />
+  flag: <Flags.TjFlag />
 },
 {
   name: "Tokelau",
   code: "en-TK",
-  flag: <Flags.En-TKFlag />
+  flag: <Flags.TkFlag />
 },
 {
   name: "Turkmenistan",
   code: "tk-TM",
-  flag: <Flags.Tk-TMFlag />
+  flag: <Flags.TmFlag />
 },
 {
   name: "Tunisia",
   code: "ar-TN",
-  flag: <Flags.Ar-TNFlag />
+  flag: <Flags.TnFlag />
 },
 {
   name: "Tonga",
   code: "en-TO",
-  flag: <Flags.En-TOFlag />
+  flag: <Flags.ToFlag />
 },
 {
   name: "Turkey",
   code: "tr-TR",
-  flag: <Flags.Tr-TRFlag />
+  flag: <Flags.TrFlag />
 },
 {
   name: "Trinidad and Tobago",
   code: "en-TT",
-  flag: <Flags.En-TTFlag />
+  flag: <Flags.TtFlag />
 },
 {
   name: "Tuvalu",
   code: "en-TV",
-  flag: <Flags.En-TVFlag />
+  flag: <Flags.TvFlag />
 },
 {
   name: "Taiwan",
   code: "zh-TW",
-  flag: <Flags.Zh-TWFlag />
+  flag: <Flags.TwFlag />
 },
 {
   name: "Tanzania",
   code: "sw-TZ",
-  flag: <Flags.Sw-TZFlag />
+  flag: <Flags.TzFlag />
 },
 {
   name: "Ukraine",
   code: "uk-UA",
-  flag: <Flags.Uk-UAFlag />
+  flag: <Flags.UaFlag />
 },
 {
   name: "Uganda",
   code: "sw-UG",
-  flag: <Flags.Sw-UGFlag />
+  flag: <Flags.UgFlag />
 },
 {
   name: "United States",
   code: "en-US",
-  flag: <Flags.En-USFlag />
+  flag: <Flags.UsFlag />
 },
 {
   name: "Uruguay",
   code: "es-UY",
-  flag: <Flags.Es-UYFlag />
+  flag: <Flags.UyFlag />
 },
 {
   name: "Uzbekistan",
   code: "uz-UZ",
-  flag: <Flags.Uz-UZFlag />
+  flag: <Flags.UzFlag />
 },
 {
   name: "Venezuela",
   code: "es-VE",
-  flag: <Flags.Es-VEFlag />
+  flag: <Flags.VeFlag />
 },
 {
   name: "U.S. Virgin Islands",
   code: "en-VI",
-  flag: <Flags.En-VIFlag />
+  flag: <Flags.ViFlag />
 },
 {
   name: "Vietnam",
   code: "vi-VN",
-  flag: <Flags.Vi-VNFlag />
+  flag: <Flags.VnFlag />
 },
 {
   name: "Vanuatu",
   code: "en-VU",
-  flag: <Flags.En-VUFlag />
+  flag: <Flags.VuFlag />
 },
 {
   name: "Samoa",
   code: "en-WS",
-  flag: <Flags.En-WSFlag />
+  flag: <Flags.WsFlag />
 },
 {
   name: "Yemen",
   code: "ar-YE",
-  flag: <Flags.Ar-YEFlag />
+  flag: <Flags.YeFlag />
 },
 {
   name: "South Africa",
   code: "af-ZA",
-  flag: <Flags.Af-ZAFlag />
+  flag: <Flags.ZaFlag />
 },
 {
   name: "Zambia",
   code: "en-ZM",
-  flag: <Flags.En-ZMFlag />
+  flag: <Flags.ZmFlag />
 },
 {
   name: "Zimbabwe",
   code: "en-ZW",
-  flag: <Flags.En-ZWFlag />
+  flag: <Flags.ZwFlag />
 }
 ];
 
@@ -1119,557 +1119,557 @@ export const sttSupportCountries: CountryEntry[] = [
 {
   name: "United Arab Emirates",
   code: "ar-AE",
-  flag: <Flags.Ar-AEFlag />
+  flag: <Flags.AeFlag />
 },
 {
   name: "Afghanistan",
   code: "fa-AF",
-  flag: <Flags.Fa-AFFlag />
+  flag: <Flags.AfFlag />
 },
 {
   name: "Albania",
   code: "sq-AL",
-  flag: <Flags.Sq-ALFlag />
+  flag: <Flags.AlFlag />
 },
 {
   name: "Armenia",
   code: "hy-AM",
-  flag: <Flags.Hy-AMFlag />
+  flag: <Flags.AmFlag />
 },
 {
   name: "Argentina",
   code: "es-AR",
-  flag: <Flags.Es-ARFlag />
+  flag: <Flags.ArFlag />
 },
 {
   name: "Austria",
   code: "de-AT",
-  flag: <Flags.De-ATFlag />
+  flag: <Flags.AtFlag />
 },
 {
   name: "Australia",
   code: "en-AU",
-  flag: <Flags.En-AUFlag />
+  flag: <Flags.AuFlag />
 },
 {
   name: "Azerbaijan",
   code: "az-AZ",
-  flag: <Flags.Az-AZFlag />
+  flag: <Flags.AzFlag />
 },
 {
   name: "Bosnia and Herzegovina",
   code: "bs-BA",
-  flag: <Flags.Bs-BAFlag />
+  flag: <Flags.BaFlag />
 },
 {
   name: "Belgium",
   code: "nl-BE",
-  flag: <Flags.Nl-BEFlag />
+  flag: <Flags.BeFlag />
 },
 {
   name: "Bulgaria",
   code: "bg-BG",
-  flag: <Flags.Bg-BGFlag />
+  flag: <Flags.BgFlag />
 },
 {
   name: "Bahrain",
   code: "ar-BH",
-  flag: <Flags.Ar-BHFlag />
+  flag: <Flags.BhFlag />
 },
 {
   name: "Bolivia",
   code: "es-BO",
-  flag: <Flags.Es-BOFlag />
+  flag: <Flags.BoFlag />
 },
 {
   name: "Brazil",
   code: "pt-BR",
-  flag: <Flags.Pt-BRFlag />
+  flag: <Flags.BrFlag />
 },
 {
   name: "Canada",
   code: "en-CA",
-  flag: <Flags.En-CAFlag />
+  flag: <Flags.CaFlag />
 },
 {
   name: "Switzerland",
   code: "de-CH",
-  flag: <Flags.De-CHFlag />
+  flag: <Flags.ChFlag />
 },
 {
   name: "Chile",
   code: "es-CL",
-  flag: <Flags.Es-CLFlag />
+  flag: <Flags.ClFlag />
 },
 {
   name: "China",
   code: "zh-CN",
-  flag: <Flags.Zh-CNFlag />
+  flag: <Flags.CnFlag />
 },
 {
   name: "Colombia",
   code: "es-CO",
-  flag: <Flags.Es-COFlag />
+  flag: <Flags.CoFlag />
 },
 {
   name: "Costa Rica",
   code: "es-CR",
-  flag: <Flags.Es-CRFlag />
+  flag: <Flags.CrFlag />
 },
 {
   name: "Cuba",
   code: "es-CU",
-  flag: <Flags.Es-CUFlag />
+  flag: <Flags.CuFlag />
 },
 {
   name: "Czech Republic",
   code: "cs-CZ",
-  flag: <Flags.Cs-CZFlag />
+  flag: <Flags.CzFlag />
 },
 {
   name: "Germany",
   code: "de-DE",
-  flag: <Flags.De-DEFlag />
+  flag: <Flags.DeFlag />
 },
 {
   name: "Denmark",
   code: "da-DK",
-  flag: <Flags.Da-DKFlag />
+  flag: <Flags.DkFlag />
 },
 {
   name: "Dominican Republic",
   code: "es-DO",
-  flag: <Flags.Es-DOFlag />
+  flag: <Flags.DoFlag />
 },
 {
   name: "Algeria",
   code: "ar-DZ",
-  flag: <Flags.Ar-DZFlag />
+  flag: <Flags.DzFlag />
 },
 {
   name: "Ecuador",
   code: "es-EC",
-  flag: <Flags.Es-ECFlag />
+  flag: <Flags.EcFlag />
 },
 {
   name: "Estonia",
   code: "et-EE",
-  flag: <Flags.Et-EEFlag />
+  flag: <Flags.EeFlag />
 },
 {
   name: "Egypt",
   code: "ar-EG",
-  flag: <Flags.Ar-EGFlag />
+  flag: <Flags.EgFlag />
 },
 {
   name: "Spain",
   code: "es-ES",
-  flag: <Flags.Es-ESFlag />
+  flag: <Flags.EsFlag />
 },
 {
   name: "Ethiopia",
   code: "am-ET",
-  flag: <Flags.Am-ETFlag />
+  flag: <Flags.EtFlag />
 },
 {
   name: "Finland",
   code: "fi-FI",
-  flag: <Flags.Fi-FIFlag />
+  flag: <Flags.FiFlag />
 },
 {
   name: "France",
   code: "fr-FR",
-  flag: <Flags.Fr-FRFlag />
+  flag: <Flags.FrFlag />
 },
 {
   name: "United Kingdom",
   code: "en-GB",
-  flag: <Flags.En-GBFlag />
+  flag: <Flags.GbFlag />
 },
 {
   name: "Georgia",
   code: "ka-GE",
-  flag: <Flags.Ka-GEFlag />
+  flag: <Flags.GeFlag />
 },
 {
   name: "Ghana",
   code: "en-GH",
-  flag: <Flags.En-GHFlag />
+  flag: <Flags.GhFlag />
 },
 {
   name: "Equatorial Guinea",
   code: "es-GQ",
-  flag: <Flags.Es-GQFlag />
+  flag: <Flags.GqFlag />
 },
 {
   name: "Greece",
   code: "el-GR",
-  flag: <Flags.El-GRFlag />
+  flag: <Flags.GrFlag />
 },
 {
   name: "Guatemala",
   code: "es-GT",
-  flag: <Flags.Es-GTFlag />
+  flag: <Flags.GtFlag />
 },
 {
   name: "Hong Kong",
   code: "zh-HK",
-  flag: <Flags.Zh-HKFlag />
+  flag: <Flags.HkFlag />
 },
 {
   name: "Honduras",
   code: "es-HN",
-  flag: <Flags.Es-HNFlag />
+  flag: <Flags.HnFlag />
 },
 {
   name: "Croatia",
   code: "hr-HR",
-  flag: <Flags.Hr-HRFlag />
+  flag: <Flags.HrFlag />
 },
 {
   name: "Hungary",
   code: "hu-HU",
-  flag: <Flags.Hu-HUFlag />
+  flag: <Flags.HuFlag />
 },
 {
   name: "Indonesia",
   code: "id-ID",
-  flag: <Flags.Id-IDFlag />
+  flag: <Flags.IdFlag />
 },
 {
   name: "Ireland",
   code: "en-IE",
-  flag: <Flags.En-IEFlag />
+  flag: <Flags.IeFlag />
 },
 {
   name: "Israel",
   code: "he-IL",
-  flag: <Flags.He-ILFlag />
+  flag: <Flags.IlFlag />
 },
 {
   name: "India",
   code: "hi-IN",
-  flag: <Flags.Hi-INFlag />
+  flag: <Flags.InFlag />
 },
 {
   name: "Iraq",
   code: "ar-IQ",
-  flag: <Flags.Ar-IQFlag />
+  flag: <Flags.IqFlag />
 },
 {
   name: "Iran",
   code: "fa-IR",
-  flag: <Flags.Fa-IRFlag />
+  flag: <Flags.IrFlag />
 },
 {
   name: "Iceland",
   code: "is-IS",
-  flag: <Flags.Is-ISFlag />
+  flag: <Flags.IsFlag />
 },
 {
   name: "Italy",
   code: "it-IT",
-  flag: <Flags.It-ITFlag />
+  flag: <Flags.ItFlag />
 },
 {
   name: "Jordan",
   code: "ar-JO",
-  flag: <Flags.Ar-JOFlag />
+  flag: <Flags.JoFlag />
 },
 {
   name: "Japan",
   code: "ja-JP",
-  flag: <Flags.Ja-JPFlag />
+  flag: <Flags.JpFlag />
 },
 {
   name: "Kenya",
   code: "sw-KE",
-  flag: <Flags.Sw-KEFlag />
+  flag: <Flags.KeFlag />
 },
 {
   name: "Cambodia",
   code: "km-KH",
-  flag: <Flags.Km-KHFlag />
+  flag: <Flags.KhFlag />
 },
 {
   name: "South Korea",
   code: "ko-KR",
-  flag: <Flags.Ko-KRFlag />
+  flag: <Flags.KrFlag />
 },
 {
   name: "Kuwait",
   code: "ar-KW",
-  flag: <Flags.Ar-KWFlag />
+  flag: <Flags.KwFlag />
 },
 {
   name: "Kazakhstan",
   code: "kk-KZ",
-  flag: <Flags.Kk-KZFlag />
+  flag: <Flags.KzFlag />
 },
 {
   name: "Laos",
   code: "lo-LA",
-  flag: <Flags.Lo-LAFlag />
+  flag: <Flags.LaFlag />
 },
 {
   name: "Lebanon",
   code: "ar-LB",
-  flag: <Flags.Ar-LBFlag />
+  flag: <Flags.LbFlag />
 },
 {
   name: "Sri Lanka",
   code: "si-LK",
-  flag: <Flags.Si-LKFlag />
+  flag: <Flags.LkFlag />
 },
 {
   name: "Lithuania",
   code: "lt-LT",
-  flag: <Flags.Lt-LTFlag />
+  flag: <Flags.LtFlag />
 },
 {
   name: "Latvia",
   code: "lv-LV",
-  flag: <Flags.Lv-LVFlag />
+  flag: <Flags.LvFlag />
 },
 {
   name: "Libya",
   code: "ar-LY",
-  flag: <Flags.Ar-LYFlag />
+  flag: <Flags.LyFlag />
 },
 {
   name: "Morocco",
   code: "ar-MA",
-  flag: <Flags.Ar-MAFlag />
+  flag: <Flags.MaFlag />
 },
 {
   name: "North Macedonia",
   code: "mk-MK",
-  flag: <Flags.Mk-MKFlag />
+  flag: <Flags.MkFlag />
 },
 {
   name: "Myanmar",
   code: "my-MM",
-  flag: <Flags.My-MMFlag />
+  flag: <Flags.MmFlag />
 },
 {
   name: "Mongolia",
   code: "mn-MN",
-  flag: <Flags.Mn-MNFlag />
+  flag: <Flags.MnFlag />
 },
 {
   name: "Malta",
   code: "mt-MT",
-  flag: <Flags.Mt-MTFlag />
+  flag: <Flags.MtFlag />
 },
 {
   name: "Mexico",
   code: "es-MX",
-  flag: <Flags.Es-MXFlag />
+  flag: <Flags.MxFlag />
 },
 {
   name: "Malaysia",
   code: "ms-MY",
-  flag: <Flags.Ms-MYFlag />
+  flag: <Flags.MyFlag />
 },
 {
   name: "Nigeria",
   code: "en-NG",
-  flag: <Flags.En-NGFlag />
+  flag: <Flags.NgFlag />
 },
 {
   name: "Nicaragua",
   code: "es-NI",
-  flag: <Flags.Es-NIFlag />
+  flag: <Flags.NiFlag />
 },
 {
   name: "Netherlands",
   code: "nl-NL",
-  flag: <Flags.Nl-NLFlag />
+  flag: <Flags.NlFlag />
 },
 {
   name: "Norway",
   code: "nb-NO",
-  flag: <Flags.Nb-NOFlag />
+  flag: <Flags.NoFlag />
 },
 {
   name: "Nepal",
   code: "ne-NP",
-  flag: <Flags.Ne-NPFlag />
+  flag: <Flags.NpFlag />
 },
 {
   name: "New Zealand",
   code: "en-NZ",
-  flag: <Flags.En-NZFlag />
+  flag: <Flags.NzFlag />
 },
 {
   name: "Oman",
   code: "ar-OM",
-  flag: <Flags.Ar-OMFlag />
+  flag: <Flags.OmFlag />
 },
 {
   name: "Panama",
   code: "es-PA",
-  flag: <Flags.Es-PAFlag />
+  flag: <Flags.PaFlag />
 },
 {
   name: "Peru",
   code: "es-PE",
-  flag: <Flags.Es-PEFlag />
+  flag: <Flags.PeFlag />
 },
 {
   name: "Philippines",
   code: "en-PH",
-  flag: <Flags.En-PHFlag />
+  flag: <Flags.PhFlag />
 },
 {
   name: "Poland",
   code: "pl-PL",
-  flag: <Flags.Pl-PLFlag />
+  flag: <Flags.PlFlag />
 },
 {
   name: "Puerto Rico",
   code: "es-PR",
-  flag: <Flags.Es-PRFlag />
+  flag: <Flags.PrFlag />
 },
 {
   name: "Palestine",
   code: "ar-PS",
-  flag: <Flags.Ar-PSFlag />
+  flag: <Flags.PsFlag />
 },
 {
   name: "Portugal",
   code: "pt-PT",
-  flag: <Flags.Pt-PTFlag />
+  flag: <Flags.PtFlag />
 },
 {
   name: "Paraguay",
   code: "es-PY",
-  flag: <Flags.Es-PYFlag />
+  flag: <Flags.PyFlag />
 },
 {
   name: "Qatar",
   code: "ar-QA",
-  flag: <Flags.Ar-QAFlag />
+  flag: <Flags.QaFlag />
 },
 {
   name: "Romania",
   code: "ro-RO",
-  flag: <Flags.Ro-ROFlag />
+  flag: <Flags.RoFlag />
 },
 {
   name: "Serbia",
   code: "sr-RS",
-  flag: <Flags.Sr-RSFlag />
+  flag: <Flags.RsFlag />
 },
 {
   name: "Russia",
   code: "ru-RU",
-  flag: <Flags.Ru-RUFlag />
+  flag: <Flags.RuFlag />
 },
 {
   name: "Saudi Arabia",
   code: "ar-SA",
-  flag: <Flags.Ar-SAFlag />
+  flag: <Flags.SaFlag />
 },
 {
   name: "Sweden",
   code: "sv-SE",
-  flag: <Flags.Sv-SEFlag />
+  flag: <Flags.SeFlag />
 },
 {
   name: "Singapore",
   code: "en-SG",
-  flag: <Flags.En-SGFlag />
+  flag: <Flags.SgFlag />
 },
 {
   name: "Slovenia",
   code: "sl-SI",
-  flag: <Flags.Sl-SIFlag />
+  flag: <Flags.SiFlag />
 },
 {
   name: "Slovakia",
   code: "sk-SK",
-  flag: <Flags.Sk-SKFlag />
+  flag: <Flags.SkFlag />
 },
 {
   name: "Somalia",
   code: "so-SO",
-  flag: <Flags.So-SOFlag />
+  flag: <Flags.SoFlag />
 },
 {
   name: "El Salvador",
   code: "es-SV",
-  flag: <Flags.Es-SVFlag />
+  flag: <Flags.SvFlag />
 },
 {
   name: "Syria",
   code: "ar-SY",
-  flag: <Flags.Ar-SYFlag />
+  flag: <Flags.SyFlag />
 },
 {
   name: "Thailand",
   code: "th-TH",
-  flag: <Flags.Th-THFlag />
+  flag: <Flags.ThFlag />
 },
 {
   name: "Tunisia",
   code: "ar-TN",
-  flag: <Flags.Ar-TNFlag />
+  flag: <Flags.TnFlag />
 },
 {
   name: "Turkey",
   code: "tr-TR",
-  flag: <Flags.Tr-TRFlag />
+  flag: <Flags.TrFlag />
 },
 {
   name: "Taiwan",
   code: "zh-TW",
-  flag: <Flags.Zh-TWFlag />
+  flag: <Flags.TwFlag />
 },
 {
   name: "Tanzania",
   code: "sw-TZ",
-  flag: <Flags.Sw-TZFlag />
+  flag: <Flags.TzFlag />
 },
 {
   name: "Ukraine",
   code: "uk-UA",
-  flag: <Flags.Uk-UAFlag />
+  flag: <Flags.UaFlag />
 },
 {
   name: "United States",
   code: "en-US",
-  flag: <Flags.En-USFlag />
+  flag: <Flags.UsFlag />
 },
 {
   name: "Uruguay",
   code: "es-UY",
-  flag: <Flags.Es-UYFlag />
+  flag: <Flags.UyFlag />
 },
 {
   name: "Uzbekistan",
   code: "uz-UZ",
-  flag: <Flags.Uz-UZFlag />
+  flag: <Flags.UzFlag />
 },
 {
   name: "Venezuela",
   code: "es-VE",
-  flag: <Flags.Es-VEFlag />
+  flag: <Flags.VeFlag />
 },
 {
   name: "Vietnam",
   code: "vi-VN",
-  flag: <Flags.Vi-VNFlag />
+  flag: <Flags.VnFlag />
 },
 {
   name: "Yemen",
   code: "ar-YE",
-  flag: <Flags.Ar-YEFlag />
+  flag: <Flags.YeFlag />
 },
 {
   name: "South Africa",
   code: "af-ZA",
-  flag: <Flags.Af-ZAFlag />
+  flag: <Flags.ZaFlag />
 }
 ];
 
@@ -1677,547 +1677,547 @@ export const sttTtsSupportCountries: CountryEntry[] = [
 {
   name: "United Arab Emirates",
   code: "ar-AE",
-  flag: <Flags.Ar-AEFlag />
+  flag: <Flags.AeFlag />
 },
 {
   name: "Afghanistan",
   code: "fa-AF",
-  flag: <Flags.Fa-AFFlag />
+  flag: <Flags.AfFlag />
 },
 {
   name: "Albania",
   code: "sq-AL",
-  flag: <Flags.Sq-ALFlag />
+  flag: <Flags.AlFlag />
 },
 {
   name: "Armenia",
   code: "hy-AM",
-  flag: <Flags.Hy-AMFlag />
+  flag: <Flags.AmFlag />
 },
 {
   name: "Argentina",
   code: "es-AR",
-  flag: <Flags.Es-ARFlag />
+  flag: <Flags.ArFlag />
 },
 {
   name: "Austria",
   code: "de-AT",
-  flag: <Flags.De-ATFlag />
+  flag: <Flags.AtFlag />
 },
 {
   name: "Australia",
   code: "en-AU",
-  flag: <Flags.En-AUFlag />
+  flag: <Flags.AuFlag />
 },
 {
   name: "Azerbaijan",
   code: "az-AZ",
-  flag: <Flags.Az-AZFlag />
+  flag: <Flags.AzFlag />
 },
 {
   name: "Bosnia and Herzegovina",
   code: "bs-BA",
-  flag: <Flags.Bs-BAFlag />
+  flag: <Flags.BaFlag />
 },
 {
   name: "Belgium",
   code: "nl-BE",
-  flag: <Flags.Nl-BEFlag />
+  flag: <Flags.BeFlag />
 },
 {
   name: "Bulgaria",
   code: "bg-BG",
-  flag: <Flags.Bg-BGFlag />
+  flag: <Flags.BgFlag />
 },
 {
   name: "Bahrain",
   code: "ar-BH",
-  flag: <Flags.Ar-BHFlag />
+  flag: <Flags.BhFlag />
 },
 {
   name: "Bolivia",
   code: "es-BO",
-  flag: <Flags.Es-BOFlag />
+  flag: <Flags.BoFlag />
 },
 {
   name: "Brazil",
   code: "pt-BR",
-  flag: <Flags.Pt-BRFlag />
+  flag: <Flags.BrFlag />
 },
 {
   name: "Canada",
   code: "en-CA",
-  flag: <Flags.En-CAFlag />
+  flag: <Flags.CaFlag />
 },
 {
   name: "Switzerland",
   code: "de-CH",
-  flag: <Flags.De-CHFlag />
+  flag: <Flags.ChFlag />
 },
 {
   name: "Chile",
   code: "es-CL",
-  flag: <Flags.Es-CLFlag />
+  flag: <Flags.ClFlag />
 },
 {
   name: "China",
   code: "zh-CN",
-  flag: <Flags.Zh-CNFlag />
+  flag: <Flags.CnFlag />
 },
 {
   name: "Colombia",
   code: "es-CO",
-  flag: <Flags.Es-COFlag />
+  flag: <Flags.CoFlag />
 },
 {
   name: "Costa Rica",
   code: "es-CR",
-  flag: <Flags.Es-CRFlag />
+  flag: <Flags.CrFlag />
 },
 {
   name: "Cuba",
   code: "es-CU",
-  flag: <Flags.Es-CUFlag />
+  flag: <Flags.CuFlag />
 },
 {
   name: "Czech Republic",
   code: "cs-CZ",
-  flag: <Flags.Cs-CZFlag />
+  flag: <Flags.CzFlag />
 },
 {
   name: "Germany",
   code: "de-DE",
-  flag: <Flags.De-DEFlag />
+  flag: <Flags.DeFlag />
 },
 {
   name: "Denmark",
   code: "da-DK",
-  flag: <Flags.Da-DKFlag />
+  flag: <Flags.DkFlag />
 },
 {
   name: "Dominican Republic",
   code: "es-DO",
-  flag: <Flags.Es-DOFlag />
+  flag: <Flags.DoFlag />
 },
 {
   name: "Algeria",
   code: "ar-DZ",
-  flag: <Flags.Ar-DZFlag />
+  flag: <Flags.DzFlag />
 },
 {
   name: "Ecuador",
   code: "es-EC",
-  flag: <Flags.Es-ECFlag />
+  flag: <Flags.EcFlag />
 },
 {
   name: "Estonia",
   code: "et-EE",
-  flag: <Flags.Et-EEFlag />
+  flag: <Flags.EeFlag />
 },
 {
   name: "Egypt",
   code: "ar-EG",
-  flag: <Flags.Ar-EGFlag />
+  flag: <Flags.EgFlag />
 },
 {
   name: "Spain",
   code: "es-ES",
-  flag: <Flags.Es-ESFlag />
+  flag: <Flags.EsFlag />
 },
 {
   name: "Ethiopia",
   code: "am-ET",
-  flag: <Flags.Am-ETFlag />
+  flag: <Flags.EtFlag />
 },
 {
   name: "Finland",
   code: "fi-FI",
-  flag: <Flags.Fi-FIFlag />
+  flag: <Flags.FiFlag />
 },
 {
   name: "France",
   code: "fr-FR",
-  flag: <Flags.Fr-FRFlag />
+  flag: <Flags.FrFlag />
 },
 {
   name: "United Kingdom",
   code: "en-GB",
-  flag: <Flags.En-GBFlag />
+  flag: <Flags.GbFlag />
 },
 {
   name: "Georgia",
   code: "ka-GE",
-  flag: <Flags.Ka-GEFlag />
+  flag: <Flags.GeFlag />
 },
 {
   name: "Equatorial Guinea",
   code: "es-GQ",
-  flag: <Flags.Es-GQFlag />
+  flag: <Flags.GqFlag />
 },
 {
   name: "Greece",
   code: "el-GR",
-  flag: <Flags.El-GRFlag />
+  flag: <Flags.GrFlag />
 },
 {
   name: "Guatemala",
   code: "es-GT",
-  flag: <Flags.Es-GTFlag />
+  flag: <Flags.GtFlag />
 },
 {
   name: "Hong Kong",
   code: "zh-HK",
-  flag: <Flags.Zh-HKFlag />
+  flag: <Flags.HkFlag />
 },
 {
   name: "Honduras",
   code: "es-HN",
-  flag: <Flags.Es-HNFlag />
+  flag: <Flags.HnFlag />
 },
 {
   name: "Croatia",
   code: "hr-HR",
-  flag: <Flags.Hr-HRFlag />
+  flag: <Flags.HrFlag />
 },
 {
   name: "Hungary",
   code: "hu-HU",
-  flag: <Flags.Hu-HUFlag />
+  flag: <Flags.HuFlag />
 },
 {
   name: "Indonesia",
   code: "id-ID",
-  flag: <Flags.Id-IDFlag />
+  flag: <Flags.IdFlag />
 },
 {
   name: "Ireland",
   code: "en-IE",
-  flag: <Flags.En-IEFlag />
+  flag: <Flags.IeFlag />
 },
 {
   name: "Israel",
   code: "he-IL",
-  flag: <Flags.He-ILFlag />
+  flag: <Flags.IlFlag />
 },
 {
   name: "India",
   code: "hi-IN",
-  flag: <Flags.Hi-INFlag />
+  flag: <Flags.InFlag />
 },
 {
   name: "Iraq",
   code: "ar-IQ",
-  flag: <Flags.Ar-IQFlag />
+  flag: <Flags.IqFlag />
 },
 {
   name: "Iran",
   code: "fa-IR",
-  flag: <Flags.Fa-IRFlag />
+  flag: <Flags.IrFlag />
 },
 {
   name: "Iceland",
   code: "is-IS",
-  flag: <Flags.Is-ISFlag />
+  flag: <Flags.IsFlag />
 },
 {
   name: "Italy",
   code: "it-IT",
-  flag: <Flags.It-ITFlag />
+  flag: <Flags.ItFlag />
 },
 {
   name: "Jordan",
   code: "ar-JO",
-  flag: <Flags.Ar-JOFlag />
+  flag: <Flags.JoFlag />
 },
 {
   name: "Japan",
   code: "ja-JP",
-  flag: <Flags.Ja-JPFlag />
+  flag: <Flags.JpFlag />
 },
 {
   name: "Kenya",
   code: "sw-KE",
-  flag: <Flags.Sw-KEFlag />
+  flag: <Flags.KeFlag />
 },
 {
   name: "Cambodia",
   code: "km-KH",
-  flag: <Flags.Km-KHFlag />
+  flag: <Flags.KhFlag />
 },
 {
   name: "South Korea",
   code: "ko-KR",
-  flag: <Flags.Ko-KRFlag />
+  flag: <Flags.KrFlag />
 },
 {
   name: "Kuwait",
   code: "ar-KW",
-  flag: <Flags.Ar-KWFlag />
+  flag: <Flags.KwFlag />
 },
 {
   name: "Kazakhstan",
   code: "kk-KZ",
-  flag: <Flags.Kk-KZFlag />
+  flag: <Flags.KzFlag />
 },
 {
   name: "Laos",
   code: "lo-LA",
-  flag: <Flags.Lo-LAFlag />
+  flag: <Flags.LaFlag />
 },
 {
   name: "Lebanon",
   code: "ar-LB",
-  flag: <Flags.Ar-LBFlag />
+  flag: <Flags.LbFlag />
 },
 {
   name: "Sri Lanka",
   code: "si-LK",
-  flag: <Flags.Si-LKFlag />
+  flag: <Flags.LkFlag />
 },
 {
   name: "Lithuania",
   code: "lt-LT",
-  flag: <Flags.Lt-LTFlag />
+  flag: <Flags.LtFlag />
 },
 {
   name: "Latvia",
   code: "lv-LV",
-  flag: <Flags.Lv-LVFlag />
+  flag: <Flags.LvFlag />
 },
 {
   name: "Libya",
   code: "ar-LY",
-  flag: <Flags.Ar-LYFlag />
+  flag: <Flags.LyFlag />
 },
 {
   name: "Morocco",
   code: "ar-MA",
-  flag: <Flags.Ar-MAFlag />
+  flag: <Flags.MaFlag />
 },
 {
   name: "North Macedonia",
   code: "mk-MK",
-  flag: <Flags.Mk-MKFlag />
+  flag: <Flags.MkFlag />
 },
 {
   name: "Myanmar",
   code: "my-MM",
-  flag: <Flags.My-MMFlag />
+  flag: <Flags.MmFlag />
 },
 {
   name: "Mongolia",
   code: "mn-MN",
-  flag: <Flags.Mn-MNFlag />
+  flag: <Flags.MnFlag />
 },
 {
   name: "Malta",
   code: "mt-MT",
-  flag: <Flags.Mt-MTFlag />
+  flag: <Flags.MtFlag />
 },
 {
   name: "Mexico",
   code: "es-MX",
-  flag: <Flags.Es-MXFlag />
+  flag: <Flags.MxFlag />
 },
 {
   name: "Malaysia",
   code: "ms-MY",
-  flag: <Flags.Ms-MYFlag />
+  flag: <Flags.MyFlag />
 },
 {
   name: "Nigeria",
   code: "en-NG",
-  flag: <Flags.En-NGFlag />
+  flag: <Flags.NgFlag />
 },
 {
   name: "Nicaragua",
   code: "es-NI",
-  flag: <Flags.Es-NIFlag />
+  flag: <Flags.NiFlag />
 },
 {
   name: "Netherlands",
   code: "nl-NL",
-  flag: <Flags.Nl-NLFlag />
+  flag: <Flags.NlFlag />
 },
 {
   name: "Norway",
   code: "nb-NO",
-  flag: <Flags.Nb-NOFlag />
+  flag: <Flags.NoFlag />
 },
 {
   name: "Nepal",
   code: "ne-NP",
-  flag: <Flags.Ne-NPFlag />
+  flag: <Flags.NpFlag />
 },
 {
   name: "New Zealand",
   code: "en-NZ",
-  flag: <Flags.En-NZFlag />
+  flag: <Flags.NzFlag />
 },
 {
   name: "Oman",
   code: "ar-OM",
-  flag: <Flags.Ar-OMFlag />
+  flag: <Flags.OmFlag />
 },
 {
   name: "Panama",
   code: "es-PA",
-  flag: <Flags.Es-PAFlag />
+  flag: <Flags.PaFlag />
 },
 {
   name: "Peru",
   code: "es-PE",
-  flag: <Flags.Es-PEFlag />
+  flag: <Flags.PeFlag />
 },
 {
   name: "Philippines",
   code: "en-PH",
-  flag: <Flags.En-PHFlag />
+  flag: <Flags.PhFlag />
 },
 {
   name: "Poland",
   code: "pl-PL",
-  flag: <Flags.Pl-PLFlag />
+  flag: <Flags.PlFlag />
 },
 {
   name: "Puerto Rico",
   code: "es-PR",
-  flag: <Flags.Es-PRFlag />
+  flag: <Flags.PrFlag />
 },
 {
   name: "Portugal",
   code: "pt-PT",
-  flag: <Flags.Pt-PTFlag />
+  flag: <Flags.PtFlag />
 },
 {
   name: "Paraguay",
   code: "es-PY",
-  flag: <Flags.Es-PYFlag />
+  flag: <Flags.PyFlag />
 },
 {
   name: "Qatar",
   code: "ar-QA",
-  flag: <Flags.Ar-QAFlag />
+  flag: <Flags.QaFlag />
 },
 {
   name: "Romania",
   code: "ro-RO",
-  flag: <Flags.Ro-ROFlag />
+  flag: <Flags.RoFlag />
 },
 {
   name: "Serbia",
   code: "sr-RS",
-  flag: <Flags.Sr-RSFlag />
+  flag: <Flags.RsFlag />
 },
 {
   name: "Russia",
   code: "ru-RU",
-  flag: <Flags.Ru-RUFlag />
+  flag: <Flags.RuFlag />
 },
 {
   name: "Saudi Arabia",
   code: "ar-SA",
-  flag: <Flags.Ar-SAFlag />
+  flag: <Flags.SaFlag />
 },
 {
   name: "Sweden",
   code: "sv-SE",
-  flag: <Flags.Sv-SEFlag />
+  flag: <Flags.SeFlag />
 },
 {
   name: "Singapore",
   code: "en-SG",
-  flag: <Flags.En-SGFlag />
+  flag: <Flags.SgFlag />
 },
 {
   name: "Slovenia",
   code: "sl-SI",
-  flag: <Flags.Sl-SIFlag />
+  flag: <Flags.SiFlag />
 },
 {
   name: "Slovakia",
   code: "sk-SK",
-  flag: <Flags.Sk-SKFlag />
+  flag: <Flags.SkFlag />
 },
 {
   name: "Somalia",
   code: "so-SO",
-  flag: <Flags.So-SOFlag />
+  flag: <Flags.SoFlag />
 },
 {
   name: "El Salvador",
   code: "es-SV",
-  flag: <Flags.Es-SVFlag />
+  flag: <Flags.SvFlag />
 },
 {
   name: "Syria",
   code: "ar-SY",
-  flag: <Flags.Ar-SYFlag />
+  flag: <Flags.SyFlag />
 },
 {
   name: "Thailand",
   code: "th-TH",
-  flag: <Flags.Th-THFlag />
+  flag: <Flags.ThFlag />
 },
 {
   name: "Tunisia",
   code: "ar-TN",
-  flag: <Flags.Ar-TNFlag />
+  flag: <Flags.TnFlag />
 },
 {
   name: "Turkey",
   code: "tr-TR",
-  flag: <Flags.Tr-TRFlag />
+  flag: <Flags.TrFlag />
 },
 {
   name: "Taiwan",
   code: "zh-TW",
-  flag: <Flags.Zh-TWFlag />
+  flag: <Flags.TwFlag />
 },
 {
   name: "Tanzania",
   code: "sw-TZ",
-  flag: <Flags.Sw-TZFlag />
+  flag: <Flags.TzFlag />
 },
 {
   name: "Ukraine",
   code: "uk-UA",
-  flag: <Flags.Uk-UAFlag />
+  flag: <Flags.UaFlag />
 },
 {
   name: "United States",
   code: "en-US",
-  flag: <Flags.En-USFlag />
+  flag: <Flags.UsFlag />
 },
 {
   name: "Uruguay",
   code: "es-UY",
-  flag: <Flags.Es-UYFlag />
+  flag: <Flags.UyFlag />
 },
 {
   name: "Uzbekistan",
   code: "uz-UZ",
-  flag: <Flags.Uz-UZFlag />
+  flag: <Flags.UzFlag />
 },
 {
   name: "Venezuela",
   code: "es-VE",
-  flag: <Flags.Es-VEFlag />
+  flag: <Flags.VeFlag />
 },
 {
   name: "Vietnam",
   code: "vi-VN",
-  flag: <Flags.Vi-VNFlag />
+  flag: <Flags.VnFlag />
 },
 {
   name: "Yemen",
   code: "ar-YE",
-  flag: <Flags.Ar-YEFlag />
+  flag: <Flags.YeFlag />
 },
 {
   name: "South Africa",
   code: "af-ZA",
-  flag: <Flags.Af-ZAFlag />
+  flag: <Flags.ZaFlag />
 }
 ];
 
@@ -2225,557 +2225,557 @@ export const ttsSupportCountries: CountryEntry[] = [
 {
   name: "United Arab Emirates",
   code: "ar-AE",
-  flag: <Flags.Ar-AEFlag />
+  flag: <Flags.AeFlag />
 },
 {
   name: "Afghanistan",
   code: "fa-AF",
-  flag: <Flags.Fa-AFFlag />
+  flag: <Flags.AfFlag />
 },
 {
   name: "Albania",
   code: "sq-AL",
-  flag: <Flags.Sq-ALFlag />
+  flag: <Flags.AlFlag />
 },
 {
   name: "Armenia",
   code: "hy-AM",
-  flag: <Flags.Hy-AMFlag />
+  flag: <Flags.AmFlag />
 },
 {
   name: "Argentina",
   code: "es-AR",
-  flag: <Flags.Es-ARFlag />
+  flag: <Flags.ArFlag />
 },
 {
   name: "Austria",
   code: "de-AT",
-  flag: <Flags.De-ATFlag />
+  flag: <Flags.AtFlag />
 },
 {
   name: "Australia",
   code: "en-AU",
-  flag: <Flags.En-AUFlag />
+  flag: <Flags.AuFlag />
 },
 {
   name: "Azerbaijan",
   code: "az-AZ",
-  flag: <Flags.Az-AZFlag />
+  flag: <Flags.AzFlag />
 },
 {
   name: "Bosnia and Herzegovina",
   code: "bs-BA",
-  flag: <Flags.Bs-BAFlag />
+  flag: <Flags.BaFlag />
 },
 {
   name: "Bangladesh",
   code: "bn-BD",
-  flag: <Flags.Bn-BDFlag />
+  flag: <Flags.BdFlag />
 },
 {
   name: "Belgium",
   code: "nl-BE",
-  flag: <Flags.Nl-BEFlag />
+  flag: <Flags.BeFlag />
 },
 {
   name: "Bulgaria",
   code: "bg-BG",
-  flag: <Flags.Bg-BGFlag />
+  flag: <Flags.BgFlag />
 },
 {
   name: "Bahrain",
   code: "ar-BH",
-  flag: <Flags.Ar-BHFlag />
+  flag: <Flags.BhFlag />
 },
 {
   name: "Bolivia",
   code: "es-BO",
-  flag: <Flags.Es-BOFlag />
+  flag: <Flags.BoFlag />
 },
 {
   name: "Brazil",
   code: "pt-BR",
-  flag: <Flags.Pt-BRFlag />
+  flag: <Flags.BrFlag />
 },
 {
   name: "Canada",
   code: "en-CA",
-  flag: <Flags.En-CAFlag />
+  flag: <Flags.CaFlag />
 },
 {
   name: "Switzerland",
   code: "de-CH",
-  flag: <Flags.De-CHFlag />
+  flag: <Flags.ChFlag />
 },
 {
   name: "Chile",
   code: "es-CL",
-  flag: <Flags.Es-CLFlag />
+  flag: <Flags.ClFlag />
 },
 {
   name: "China",
   code: "zh-CN",
-  flag: <Flags.Zh-CNFlag />
+  flag: <Flags.CnFlag />
 },
 {
   name: "Colombia",
   code: "es-CO",
-  flag: <Flags.Es-COFlag />
+  flag: <Flags.CoFlag />
 },
 {
   name: "Costa Rica",
   code: "es-CR",
-  flag: <Flags.Es-CRFlag />
+  flag: <Flags.CrFlag />
 },
 {
   name: "Cuba",
   code: "es-CU",
-  flag: <Flags.Es-CUFlag />
+  flag: <Flags.CuFlag />
 },
 {
   name: "Czech Republic",
   code: "cs-CZ",
-  flag: <Flags.Cs-CZFlag />
+  flag: <Flags.CzFlag />
 },
 {
   name: "Germany",
   code: "de-DE",
-  flag: <Flags.De-DEFlag />
+  flag: <Flags.DeFlag />
 },
 {
   name: "Denmark",
   code: "da-DK",
-  flag: <Flags.Da-DKFlag />
+  flag: <Flags.DkFlag />
 },
 {
   name: "Dominican Republic",
   code: "es-DO",
-  flag: <Flags.Es-DOFlag />
+  flag: <Flags.DoFlag />
 },
 {
   name: "Algeria",
   code: "ar-DZ",
-  flag: <Flags.Ar-DZFlag />
+  flag: <Flags.DzFlag />
 },
 {
   name: "Ecuador",
   code: "es-EC",
-  flag: <Flags.Es-ECFlag />
+  flag: <Flags.EcFlag />
 },
 {
   name: "Estonia",
   code: "et-EE",
-  flag: <Flags.Et-EEFlag />
+  flag: <Flags.EeFlag />
 },
 {
   name: "Egypt",
   code: "ar-EG",
-  flag: <Flags.Ar-EGFlag />
+  flag: <Flags.EgFlag />
 },
 {
   name: "Spain",
   code: "es-ES",
-  flag: <Flags.Es-ESFlag />
+  flag: <Flags.EsFlag />
 },
 {
   name: "Ethiopia",
   code: "am-ET",
-  flag: <Flags.Am-ETFlag />
+  flag: <Flags.EtFlag />
 },
 {
   name: "Finland",
   code: "fi-FI",
-  flag: <Flags.Fi-FIFlag />
+  flag: <Flags.FiFlag />
 },
 {
   name: "France",
   code: "fr-FR",
-  flag: <Flags.Fr-FRFlag />
+  flag: <Flags.FrFlag />
 },
 {
   name: "United Kingdom",
   code: "en-GB",
-  flag: <Flags.En-GBFlag />
+  flag: <Flags.GbFlag />
 },
 {
   name: "Georgia",
   code: "ka-GE",
-  flag: <Flags.Ka-GEFlag />
+  flag: <Flags.GeFlag />
 },
 {
   name: "Equatorial Guinea",
   code: "es-GQ",
-  flag: <Flags.Es-GQFlag />
+  flag: <Flags.GqFlag />
 },
 {
   name: "Greece",
   code: "el-GR",
-  flag: <Flags.El-GRFlag />
+  flag: <Flags.GrFlag />
 },
 {
   name: "Guatemala",
   code: "es-GT",
-  flag: <Flags.Es-GTFlag />
+  flag: <Flags.GtFlag />
 },
 {
   name: "Hong Kong",
   code: "zh-HK",
-  flag: <Flags.Zh-HKFlag />
+  flag: <Flags.HkFlag />
 },
 {
   name: "Honduras",
   code: "es-HN",
-  flag: <Flags.Es-HNFlag />
+  flag: <Flags.HnFlag />
 },
 {
   name: "Croatia",
   code: "hr-HR",
-  flag: <Flags.Hr-HRFlag />
+  flag: <Flags.HrFlag />
 },
 {
   name: "Hungary",
   code: "hu-HU",
-  flag: <Flags.Hu-HUFlag />
+  flag: <Flags.HuFlag />
 },
 {
   name: "Indonesia",
   code: "id-ID",
-  flag: <Flags.Id-IDFlag />
+  flag: <Flags.IdFlag />
 },
 {
   name: "Ireland",
   code: "en-IE",
-  flag: <Flags.En-IEFlag />
+  flag: <Flags.IeFlag />
 },
 {
   name: "Israel",
   code: "he-IL",
-  flag: <Flags.He-ILFlag />
+  flag: <Flags.IlFlag />
 },
 {
   name: "India",
   code: "hi-IN",
-  flag: <Flags.Hi-INFlag />
+  flag: <Flags.InFlag />
 },
 {
   name: "Iraq",
   code: "ar-IQ",
-  flag: <Flags.Ar-IQFlag />
+  flag: <Flags.IqFlag />
 },
 {
   name: "Iran",
   code: "fa-IR",
-  flag: <Flags.Fa-IRFlag />
+  flag: <Flags.IrFlag />
 },
 {
   name: "Iceland",
   code: "is-IS",
-  flag: <Flags.Is-ISFlag />
+  flag: <Flags.IsFlag />
 },
 {
   name: "Italy",
   code: "it-IT",
-  flag: <Flags.It-ITFlag />
+  flag: <Flags.ItFlag />
 },
 {
   name: "Jordan",
   code: "ar-JO",
-  flag: <Flags.Ar-JOFlag />
+  flag: <Flags.JoFlag />
 },
 {
   name: "Japan",
   code: "ja-JP",
-  flag: <Flags.Ja-JPFlag />
+  flag: <Flags.JpFlag />
 },
 {
   name: "Kenya",
   code: "sw-KE",
-  flag: <Flags.Sw-KEFlag />
+  flag: <Flags.KeFlag />
 },
 {
   name: "Cambodia",
   code: "km-KH",
-  flag: <Flags.Km-KHFlag />
+  flag: <Flags.KhFlag />
 },
 {
   name: "South Korea",
   code: "ko-KR",
-  flag: <Flags.Ko-KRFlag />
+  flag: <Flags.KrFlag />
 },
 {
   name: "Kuwait",
   code: "ar-KW",
-  flag: <Flags.Ar-KWFlag />
+  flag: <Flags.KwFlag />
 },
 {
   name: "Kazakhstan",
   code: "kk-KZ",
-  flag: <Flags.Kk-KZFlag />
+  flag: <Flags.KzFlag />
 },
 {
   name: "Laos",
   code: "lo-LA",
-  flag: <Flags.Lo-LAFlag />
+  flag: <Flags.LaFlag />
 },
 {
   name: "Lebanon",
   code: "ar-LB",
-  flag: <Flags.Ar-LBFlag />
+  flag: <Flags.LbFlag />
 },
 {
   name: "Sri Lanka",
   code: "si-LK",
-  flag: <Flags.Si-LKFlag />
+  flag: <Flags.LkFlag />
 },
 {
   name: "Lithuania",
   code: "lt-LT",
-  flag: <Flags.Lt-LTFlag />
+  flag: <Flags.LtFlag />
 },
 {
   name: "Latvia",
   code: "lv-LV",
-  flag: <Flags.Lv-LVFlag />
+  flag: <Flags.LvFlag />
 },
 {
   name: "Libya",
   code: "ar-LY",
-  flag: <Flags.Ar-LYFlag />
+  flag: <Flags.LyFlag />
 },
 {
   name: "Morocco",
   code: "ar-MA",
-  flag: <Flags.Ar-MAFlag />
+  flag: <Flags.MaFlag />
 },
 {
   name: "North Macedonia",
   code: "mk-MK",
-  flag: <Flags.Mk-MKFlag />
+  flag: <Flags.MkFlag />
 },
 {
   name: "Myanmar",
   code: "my-MM",
-  flag: <Flags.My-MMFlag />
+  flag: <Flags.MmFlag />
 },
 {
   name: "Mongolia",
   code: "mn-MN",
-  flag: <Flags.Mn-MNFlag />
+  flag: <Flags.MnFlag />
 },
 {
   name: "Malta",
   code: "mt-MT",
-  flag: <Flags.Mt-MTFlag />
+  flag: <Flags.MtFlag />
 },
 {
   name: "Mexico",
   code: "es-MX",
-  flag: <Flags.Es-MXFlag />
+  flag: <Flags.MxFlag />
 },
 {
   name: "Malaysia",
   code: "ms-MY",
-  flag: <Flags.Ms-MYFlag />
+  flag: <Flags.MyFlag />
 },
 {
   name: "Nigeria",
   code: "en-NG",
-  flag: <Flags.En-NGFlag />
+  flag: <Flags.NgFlag />
 },
 {
   name: "Nicaragua",
   code: "es-NI",
-  flag: <Flags.Es-NIFlag />
+  flag: <Flags.NiFlag />
 },
 {
   name: "Netherlands",
   code: "nl-NL",
-  flag: <Flags.Nl-NLFlag />
+  flag: <Flags.NlFlag />
 },
 {
   name: "Norway",
   code: "nb-NO",
-  flag: <Flags.Nb-NOFlag />
+  flag: <Flags.NoFlag />
 },
 {
   name: "Nepal",
   code: "ne-NP",
-  flag: <Flags.Ne-NPFlag />
+  flag: <Flags.NpFlag />
 },
 {
   name: "New Zealand",
   code: "en-NZ",
-  flag: <Flags.En-NZFlag />
+  flag: <Flags.NzFlag />
 },
 {
   name: "Oman",
   code: "ar-OM",
-  flag: <Flags.Ar-OMFlag />
+  flag: <Flags.OmFlag />
 },
 {
   name: "Panama",
   code: "es-PA",
-  flag: <Flags.Es-PAFlag />
+  flag: <Flags.PaFlag />
 },
 {
   name: "Peru",
   code: "es-PE",
-  flag: <Flags.Es-PEFlag />
+  flag: <Flags.PeFlag />
 },
 {
   name: "Philippines",
   code: "en-PH",
-  flag: <Flags.En-PHFlag />
+  flag: <Flags.PhFlag />
 },
 {
   name: "Pakistan",
   code: "ur-PK",
-  flag: <Flags.Ur-PKFlag />
+  flag: <Flags.PkFlag />
 },
 {
   name: "Poland",
   code: "pl-PL",
-  flag: <Flags.Pl-PLFlag />
+  flag: <Flags.PlFlag />
 },
 {
   name: "Puerto Rico",
   code: "es-PR",
-  flag: <Flags.Es-PRFlag />
+  flag: <Flags.PrFlag />
 },
 {
   name: "Portugal",
   code: "pt-PT",
-  flag: <Flags.Pt-PTFlag />
+  flag: <Flags.PtFlag />
 },
 {
   name: "Paraguay",
   code: "es-PY",
-  flag: <Flags.Es-PYFlag />
+  flag: <Flags.PyFlag />
 },
 {
   name: "Qatar",
   code: "ar-QA",
-  flag: <Flags.Ar-QAFlag />
+  flag: <Flags.QaFlag />
 },
 {
   name: "Romania",
   code: "ro-RO",
-  flag: <Flags.Ro-ROFlag />
+  flag: <Flags.RoFlag />
 },
 {
   name: "Serbia",
   code: "sr-RS",
-  flag: <Flags.Sr-RSFlag />
+  flag: <Flags.RsFlag />
 },
 {
   name: "Russia",
   code: "ru-RU",
-  flag: <Flags.Ru-RUFlag />
+  flag: <Flags.RuFlag />
 },
 {
   name: "Saudi Arabia",
   code: "ar-SA",
-  flag: <Flags.Ar-SAFlag />
+  flag: <Flags.SaFlag />
 },
 {
   name: "Sweden",
   code: "sv-SE",
-  flag: <Flags.Sv-SEFlag />
+  flag: <Flags.SeFlag />
 },
 {
   name: "Singapore",
   code: "en-SG",
-  flag: <Flags.En-SGFlag />
+  flag: <Flags.SgFlag />
 },
 {
   name: "Slovenia",
   code: "sl-SI",
-  flag: <Flags.Sl-SIFlag />
+  flag: <Flags.SiFlag />
 },
 {
   name: "Slovakia",
   code: "sk-SK",
-  flag: <Flags.Sk-SKFlag />
+  flag: <Flags.SkFlag />
 },
 {
   name: "Somalia",
   code: "so-SO",
-  flag: <Flags.So-SOFlag />
+  flag: <Flags.SoFlag />
 },
 {
   name: "El Salvador",
   code: "es-SV",
-  flag: <Flags.Es-SVFlag />
+  flag: <Flags.SvFlag />
 },
 {
   name: "Syria",
   code: "ar-SY",
-  flag: <Flags.Ar-SYFlag />
+  flag: <Flags.SyFlag />
 },
 {
   name: "Thailand",
   code: "th-TH",
-  flag: <Flags.Th-THFlag />
+  flag: <Flags.ThFlag />
 },
 {
   name: "Tunisia",
   code: "ar-TN",
-  flag: <Flags.Ar-TNFlag />
+  flag: <Flags.TnFlag />
 },
 {
   name: "Turkey",
   code: "tr-TR",
-  flag: <Flags.Tr-TRFlag />
+  flag: <Flags.TrFlag />
 },
 {
   name: "Taiwan",
   code: "zh-TW",
-  flag: <Flags.Zh-TWFlag />
+  flag: <Flags.TwFlag />
 },
 {
   name: "Tanzania",
   code: "sw-TZ",
-  flag: <Flags.Sw-TZFlag />
+  flag: <Flags.TzFlag />
 },
 {
   name: "Ukraine",
   code: "uk-UA",
-  flag: <Flags.Uk-UAFlag />
+  flag: <Flags.UaFlag />
 },
 {
   name: "United States",
   code: "en-US",
-  flag: <Flags.En-USFlag />
+  flag: <Flags.UsFlag />
 },
 {
   name: "Uruguay",
   code: "es-UY",
-  flag: <Flags.Es-UYFlag />
+  flag: <Flags.UyFlag />
 },
 {
   name: "Uzbekistan",
   code: "uz-UZ",
-  flag: <Flags.Uz-UZFlag />
+  flag: <Flags.UzFlag />
 },
 {
   name: "Venezuela",
   code: "es-VE",
-  flag: <Flags.Es-VEFlag />
+  flag: <Flags.VeFlag />
 },
 {
   name: "Vietnam",
   code: "vi-VN",
-  flag: <Flags.Vi-VNFlag />
+  flag: <Flags.VnFlag />
 },
 {
   name: "Yemen",
   code: "ar-YE",
-  flag: <Flags.Ar-YEFlag />
+  flag: <Flags.YeFlag />
 },
 {
   name: "South Africa",
   code: "af-ZA",
-  flag: <Flags.Af-ZAFlag />
+  flag: <Flags.ZaFlag />
 }
 ];
 
